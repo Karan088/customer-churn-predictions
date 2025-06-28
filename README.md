@@ -15,7 +15,7 @@ Saved, reusable pipeline for deployment
 
 *  Run the notebooks to explore, train, and evaluate the model
 
-
+```
 customer-churn-predictions/
 │
 ├── data/
@@ -30,3 +30,4 @@ customer-churn-predictions/
 │   └── predict_sample.ipynb               # Example python notebook for making predictions using saved model
 │
 ├── README.md                            # Project overview and instructions
+```
