@@ -14,3 +14,19 @@ Saved, reusable pipeline for deployment
 
 
 *  Run the notebooks to explore, train, and evaluate the model
+
+
+customer-churn-predictions/
+│
+├── data/
+│   └── raw_data.csv              
+│
+├── churn-prediction-class-balancing.ipynb  #Complete end to end notebook  
+│   
+├── models/
+│   └── churn_model_pipeline.pkl         # Saved pipeline (preprocessor + model)
+│
+├── scripts/
+│   └── predict_sample.ipynb               # Example python notebook for making predictions using saved model
+│
+├── README.md                            # Project overview and instructions
