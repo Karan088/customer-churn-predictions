@@ -22,6 +22,8 @@ customer-churn-predictions/
 │   └── raw_data.csv              
 │
 ├── churn-prediction-class-balancing.ipynb  #Complete end to end notebook  
+│
+├── Customer Churn Prediction.pdf  #Overview of the report explaining the steps and processes 
 │   
 ├── models/
 │   └── churn_model_pipeline.pkl         # Saved pipeline (preprocessor + model)
